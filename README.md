@@ -17,19 +17,33 @@
   3. SMPL을 준비한다.
   
   3-1. cmd 가상개발환경에 접속한다.
+  
   3-2. pip install smplpytorch 명령어를 이용한다.
+  
   4. requirements를 수행한다.
+  
   4-1. pip install opencv-python
+  
        pip install transforms3d
+       
        pip install pycocotools
+       
        pip install git+https://github.com/scottandrews/chumpy.git@fe51783e0364bf1e9b705541e7d77f894dd2b1ac
+       
        pip install pyrender
+       
        pip install trimesh
+       
        pip install pyyaml
+       
        pip install easydict
+       
        pip install tqdm 
+       
        명령어들을 순서대로 수행한다.
+       
   5. python demo/run.py --gpu 0 --input_pose demo/h36m_joint_input.npy --joint_set human36 와 같은 명령어로 inference를 수행한다.
+  
   5-1. demo/h36m_joint_input.npy 대신 다른 .npy파일을 사용해도 좋다.
 
 •Presentation
