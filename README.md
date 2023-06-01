@@ -15,6 +15,7 @@
   1. pytorch 1.2이상의 버전을 설치한다. (download link: https://pytorch.org/)
   2. python의 버전은 3.7.2이상이어야 한다.
   3. SMPL을 준비한다.
+  
   3-1. cmd 가상개발환경에 접속한다.
   3-2. pip install smplpytorch 명령어를 이용한다.
   4. requirements를 수행한다.
