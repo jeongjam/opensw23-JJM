@@ -6,6 +6,10 @@
   
 •Results
   –Describe the representative results or findings (currently empty)
+![스크린샷 2023-06-01 233709](https://github.com/jeongjam/opensw23-JJM/assets/105273819/a08c566f-5912-4d7f-bd73-8c70509c414f)
+
+
+![스크린샷 2023-06-01 233717](https://github.com/jeongjam/opensw23-JJM/assets/105273819/808f9920-6d51-4a23-8f72-5d5ce876fb26)
 
 •Analysis/Visualization
   –Present any analysis or visualizations related to the topic (currently empty)
